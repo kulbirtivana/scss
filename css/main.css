@@ -1,0 +1,16 @@
+body h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 46px;
+}
+body p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+body p a {
+  color: green;
+}
+body p a:hover {
+  color: gold;
+}
+
+/*# sourceMappingURL=main.css.map */

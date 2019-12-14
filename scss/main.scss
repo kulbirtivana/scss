@@ -1,0 +1,22 @@
+$fontStack: Helvetica, Arial, sans-serif;
+
+body {
+	h1 {
+	font-family: $fontStack;
+	font-size: 46px;
+
+	  }
+		p {
+	font-family: $fontStack;
+	font-size: 12px;
+
+		a {
+	color:green;
+
+	&:hover {
+	color: gold;
+			}
+		}
+	}
+
+}
